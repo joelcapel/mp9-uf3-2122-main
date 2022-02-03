@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mp9-uf3-2122-main.iml" filepath="$PROJECT_DIR$/.idea/mp9-uf3-2122-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp9-uf3-2122-main/mp9.uf3.tcp/mp9.uf3.tcp.iml" filepath="$PROJECT_DIR$/mp9-uf3-2122-main/mp9.uf3.tcp/mp9.uf3.tcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp9-uf3-2122-main/mp9.uf3.udp/mp9.uf3.udp.iml" filepath="$PROJECT_DIR$/mp9-uf3-2122-main/mp9.uf3.udp/mp9.uf3.udp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp9-uf3-2122-main/mp9.uf3.urls/mp9.uf3.urls.iml" filepath="$PROJECT_DIR$/mp9-uf3-2122-main/mp9.uf3.urls/mp9.uf3.urls.iml" />
+    </modules>
+  </component>
+</project>
